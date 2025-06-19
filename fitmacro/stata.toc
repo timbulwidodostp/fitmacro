@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p fitmacro Module to evaluate fit of loglinear GLM Poisson models Use fitmacro With STATA 19
